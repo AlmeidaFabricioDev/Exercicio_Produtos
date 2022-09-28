@@ -1,0 +1,15 @@
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\bin\Debug\net6.0\Exercicio_Produtos.exe
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\bin\Debug\net6.0\Exercicio_Produtos.deps.json
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\bin\Debug\net6.0\Exercicio_Produtos.runtimeconfig.json
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\bin\Debug\net6.0\Exercicio_Produtos.dll
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\bin\Debug\net6.0\Exercicio_Produtos.pdb
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\obj\Debug\net6.0\Exercicio_Produtos.csproj.AssemblyReference.cache
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\obj\Debug\net6.0\Exercicio_Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\obj\Debug\net6.0\Exercicio_Produtos.AssemblyInfoInputs.cache
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\obj\Debug\net6.0\Exercicio_Produtos.AssemblyInfo.cs
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\obj\Debug\net6.0\Exercicio_Produtos.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\obj\Debug\net6.0\Exercicio_Produtos.dll
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\obj\Debug\net6.0\refint\Exercicio_Produtos.dll
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\obj\Debug\net6.0\Exercicio_Produtos.pdb
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\obj\Debug\net6.0\Exercicio_Produtos.genruntimeconfig.cache
+C:\Users\fabri\source\repos\Exercicio_Produtos\Exercicio_Produtos\obj\Debug\net6.0\ref\Exercicio_Produtos.dll
